@@ -1,5 +1,4 @@
 # ADSCA
-##
 The impact of the hyperparameter β on the runtime of ADSCA on the JunYi dataset is illustrated in the figure:
 
 <p align="center">
